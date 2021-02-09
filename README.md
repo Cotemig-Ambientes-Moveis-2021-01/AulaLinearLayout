@@ -11,5 +11,5 @@
 <strong>tamanho da fonte</strong> – sp (Scale-independent Pixels) para tamanhos de fonte – textSize=“16sp”<br/>
 <strong>margin</strong> – distância entre os componentes<br/>
 <strong>padding</strong> – distância interna do componente<br/>
-<strong>weight</strong> – peso do componente<br/>
+<strong>weight</strong> – peso do componente. Utilizado apenas quando componentes estão match_parent dentro de um LinearLayout<br/>
 <strong>background</strong> – cor de fundo do componente, exemplo: android:background="@color/black"<br/>
