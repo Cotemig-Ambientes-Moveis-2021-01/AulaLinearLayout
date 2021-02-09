@@ -1,4 +1,4 @@
-# AulaLinearLayout
+# Aula LinearLayout
 
 <h5>Tipos de Orientação</h5>
 <strong>Horizontal</strong> - componentes ficam um ao lado do outro<br/>
