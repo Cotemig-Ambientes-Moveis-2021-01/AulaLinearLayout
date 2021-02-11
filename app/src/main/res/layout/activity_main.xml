@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="horizontal"
+    android:background="@color/white"
+    android:orientation="vertical"
     tools:context=".MainActivity">
 
     <!--
@@ -18,11 +19,19 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:layout_marginBottom="50dp"
         android:layout_weight="1"
         android:background="@color/black"
         android:text="Olá"
         android:textColor="@color/white"
         android:textSize="24sp" />
+    
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:padding="10dp"
+        android:text="Olá pessoal, Olá pessoal, Olá pessoal, Olá pessoal, Olá pessoal, Olá pessoal, Olá pessoal, Olá pessoal, Olá pessoal, Olá pessoal, Olá pessoal, Olá pessoal, Olá pessoal, Olá pessoal" />
 
     <Button
         android:layout_width="match_parent"
